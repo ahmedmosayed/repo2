@@ -1,1 +1,1 @@
-![My Image](file:///e:/git.test/book.jpeg)
+![My Image](image/book.jpeg)
